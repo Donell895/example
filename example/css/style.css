@@ -1,0 +1,33 @@
+#donell{
+    height:100vh;
+    background-image:("https://images.unsplash.com/photo-1686343981730-9f9087c1b471?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw2MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+#mutisya{
+    height:100vh;
+    background-color:green;
+}
+
+.foot{
+    height:100vh;
+    background-image:url("https://images.unsplash.com/photo-1675426513908-75bf6aaee78c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4OHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    background-repeat:no repeat;
+    background-size:cover;
+}
+
+.major{
+    background-color:red;
+}
+
+.mainheader{
+    text-align:center;
+}
+
+.navigationbar>ul>li{
+    border:2px solid blueviolet;
+    padding:7px;
+    border: radius 45%;
+    list-style-type:none;
+}
